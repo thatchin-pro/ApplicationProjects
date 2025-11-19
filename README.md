@@ -8,3 +8,8 @@ Each project focuses on different core Java concepts such as OOP, file handling,
 ### 🔹 TradeAccount
 A console-based trading account management system.  
 Features account creation, fund deposit/withdrawal, and balance display.
+
+
+### 🔹 Taxi Booking System
+A simple taxi booking console application.  
+Users can book taxis, calculate fare and view bookings.
